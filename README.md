@@ -1,0 +1,2 @@
+# gocrawler
+Gogoanime catalog downloader
